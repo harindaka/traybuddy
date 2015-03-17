@@ -1,0 +1,1 @@
+Tray Buddy is a FREE Desktop Notes application released for the Microsoft Windows (Windows 2000 and above) platform under the GNU GPL. Please visit http://traybuddy.blogspot.com for more information.
